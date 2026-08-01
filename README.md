@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐛 CodeFix AI
+#  CodeFix AI
 
 ### AI & ML Software Defect Prediction Suite
 
