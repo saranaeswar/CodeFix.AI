@@ -64,21 +64,21 @@ Live code auto-fixing • ML-powered bug prediction • Dataset analytics • Se
 - Render (Node web service)
 
 ---
-
 ## 📁 Project Structure
 
+```
 codefix-ai/
-├── server.ts # Express server + Groq AI proxy
+├── server.ts              # Express server + Groq AI proxy
 ├── src/
-│ ├── App.tsx # Root component, tab routing
-│ ├── components/ # UI modules (editor, prediction, reports, auth)
-│ ├── lib/supabase.ts # Supabase client & session helpers
-│ ├── utils/ # ML engine, explainability, preflight checks
-│ ├── data/ # Sample datasets & bug presets
-│ └── types.ts # Shared TypeScript types
-├── .env.example # Environment variable template
+│   ├── App.tsx             # Root component, tab routing
+│   ├── components/          # UI modules (editor, prediction, reports, auth)
+│   ├── lib/supabase.ts       # Supabase client & session helpers
+│   ├── utils/                # ML engine, explainability, preflight checks
+│   ├── data/                 # Sample datasets & bug presets
+│   └── types.ts              # Shared TypeScript types
+├── .env.example             # Environment variable template
 └── package.json
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
