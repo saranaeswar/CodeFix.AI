@@ -1,0 +1,7 @@
+{
+  "name": "CodeFix AI",
+  "description": "AI & ML Software Defect Prediction Suite featuring Dataset Upload, Early Bug Prediction, Performance Analytics, and Live Code Auto-Fixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
