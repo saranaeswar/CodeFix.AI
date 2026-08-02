@@ -1,6 +1,6 @@
 <div align="center">
 
-#  CodeFix AI
+# 🐛 CodeFix AI
 
 ### AI & ML Software Defect Prediction Suite
 
@@ -64,6 +64,7 @@ Live code auto-fixing • ML-powered bug prediction • Dataset analytics • Se
 - Render (Node web service)
 
 ---
+
 ## 📁 Project Structure
 
 ```
@@ -79,6 +80,7 @@ codefix-ai/
 ├── .env.example             # Environment variable template
 └── package.json
 ```
+
 ## 🚀 Getting Started
 
 ### Prerequisites

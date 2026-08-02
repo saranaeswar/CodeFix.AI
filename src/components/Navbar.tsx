@@ -44,7 +44,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </span>
               </div>
             <p className="text-[10px] text-slate-500 hidden sm:block">
-              Built By Saranaeswar   Team : 9
+              
               
             </p>
           </div>
